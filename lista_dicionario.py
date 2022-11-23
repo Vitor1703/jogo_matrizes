@@ -20,6 +20,3 @@ while True:
         break
     
 print(listPessoas)
-
-# print(tabulate(table, headers=["Nome", "Sex o", "Idade"], tablefmt="grid"))
-
