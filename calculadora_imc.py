@@ -1,8 +1,3 @@
-#Alunos: Bianca Martins Amaral e Vitor Hugo Cavalcanti Ramos
-#Professor: Anderson Oberdan - Projeto de Sistemas Orientado a Objetos
-#Situação problema: Cadastrar usuários, inserindo seu nome, gênero, idade, peso e altura e depois listar os dados da pessoa cadastrada. Depois é feito o cálculo do IMC,
-#para saber qual a situação do usuário. 
-
 import tkinter as tk
 from tkinter import ttk
 from turtle import width
