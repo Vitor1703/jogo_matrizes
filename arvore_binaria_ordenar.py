@@ -1,10 +1,3 @@
-# BINARY TREE PROGRAM.
-# Powered by: Vitor Hugo and Heitor Zaremba.
-# Contact: vitorhc58@gmail.com
-# Curse: Software Engineer - 4P
-# College: Senai CIC
-# Teacher: Anderson Oberdan
-
 from queue import Queue
 
 # Node class
